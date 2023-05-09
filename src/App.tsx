@@ -17,7 +17,7 @@ interface Response {
   };
 }
 
-const apiUrl = "http://zigzagfirsthandbetaversion.andres-gr.repl.co";
+const apiUrl = "https://zigzagfirsthandbetaversion.andres-gr.repl.co";
 
 const numRegex = /^\d{10}$/;
 
